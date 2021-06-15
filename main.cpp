@@ -10,8 +10,3 @@ int main()
     std::cout << avg;
 }
 
-void mvval(){
-    char array[10];
-    void *pos = memchr(array, '@', 42);
-}
-

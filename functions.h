@@ -3,3 +3,5 @@
 double getAverage(int arr[], int size);
 
 void alterArray(char arr[]);
+
+void mvval();
